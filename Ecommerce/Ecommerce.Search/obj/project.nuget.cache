@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "wfcqKlpFPovMPTHXkAjdbrP1m5j12txwoPuXihhCpN5uZ2wk6/FRcNtAW0n3H5ED0zwRSqsU3MgdFXGcWaipHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Phanisirisha_Mangala\\Documents\\Me\\Learning\\Microservices\\Ecommerce\\Ecommerce.Search\\Ecommerce.Search.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phanisirisha_Mangala\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Phanisirisha_Mangala\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Phanisirisha_Mangala\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
+    "C:\\Users\\Phanisirisha_Mangala\\.nuget\\packages\\microsoft.extensions.http.polly\\7.0.5\\microsoft.extensions.http.polly.7.0.5.nupkg.sha512",
+    "C:\\Users\\Phanisirisha_Mangala\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Phanisirisha_Mangala\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Phanisirisha_Mangala\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Phanisirisha_Mangala\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Phanisirisha_Mangala\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\Phanisirisha_Mangala\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
+    "C:\\Users\\Phanisirisha_Mangala\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
