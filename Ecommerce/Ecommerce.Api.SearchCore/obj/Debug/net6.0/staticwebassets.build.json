@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "eSmPgYEzYADoOIlqX9lhr0tZ0L44kcidHIn7Lx7fvM0=",
+  "Source": "Ecommerce.Api.SearchCore",
+  "BasePath": "_content/Ecommerce.Api.SearchCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Phanisirisha_Mangala\\Documents\\Me\\Learning\\Microservices\\Ecommerce\\Ecommerce.Api.ProductsCore\\Ecommerce.Api.ProductsCore.csproj",
+      "Version": 2,
+      "Source": "Ecommerce.Api.ProductsCore",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

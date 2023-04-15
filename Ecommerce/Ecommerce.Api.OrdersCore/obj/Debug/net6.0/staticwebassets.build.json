@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wekG5uHhnY9roar304RM44fViYGtOBueNKuD4Y8AbWw=",
+  "Source": "Ecommerce.Api.OrdersCore",
+  "BasePath": "_content/Ecommerce.Api.OrdersCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

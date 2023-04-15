@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R+mfikb75YMmf9ykEWZS6Xc4I8oV5dBPlwkOt7TLfaM=",
+  "Source": "Ecommerce.Api.CustomersCore",
+  "BasePath": "_content/Ecommerce.Api.CustomersCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

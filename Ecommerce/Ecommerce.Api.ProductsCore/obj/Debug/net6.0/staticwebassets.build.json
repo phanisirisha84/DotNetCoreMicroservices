@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QRfG23vxTHeeVfXLUxhGdIE3bsOneKmnbgZwdVqd47Y=",
+  "Source": "Ecommerce.Api.ProductsCore",
+  "BasePath": "_content/Ecommerce.Api.ProductsCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
